@@ -1,0 +1,14 @@
+{
+  "name": "angle-vue-preset",
+  "description": "The vue-cli preset of angle-FE team",
+  "author": "youngbeen",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "glob": "^7.1.3",
+    "isbinaryfile": "^3.0.3"
+  },
+  "devDependencies": {},
+  "main": "index.js"
+}

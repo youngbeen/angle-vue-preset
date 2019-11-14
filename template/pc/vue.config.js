@@ -7,7 +7,7 @@ const CompressionPlugin = require('compression-webpack-plugin')
 
 let publicPath = '/'
 if (process.env.NODE_ENV === 'production') {
-  if (process.env.TARGET_ENV === 'sit') {
+  if (process.env.VUE_APP_TARGET_ENV === 'sit') {
     // 测试环境
     publicPath = '/qmfrural-view/TODO/'
   } else {

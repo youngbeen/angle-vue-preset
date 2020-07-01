@@ -18,7 +18,7 @@ module.exports = [
   {
     type: 'confirm',
     name: 'enableEncrypt',
-    message: '是否需要请求加密模块',
+    message: '是否需要网络请求加密模块',
     default: false
   }
 ]

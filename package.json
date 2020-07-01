@@ -2,7 +2,7 @@
   "name": "angle-vue-preset",
   "description": "The vue-cli preset of angle-FE team",
   "author": "youngbeen",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "scripts": {},
   "dependencies": {

@@ -13,6 +13,7 @@ module.exports = (api, options, rootOptions) => {
         "vue-router": "^3.0.3"
       },
       devDependencies: {
+        "@babel/preset-env": "^7.8.3",
         "@vue/cli-plugin-babel": "^3.0.3",
         "@vue/cli-plugin-eslint": "^3.0.3",
         "@vue/eslint-config-standard": "^4.0.0",
